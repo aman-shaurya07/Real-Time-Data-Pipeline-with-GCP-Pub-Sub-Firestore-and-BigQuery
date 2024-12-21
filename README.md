@@ -61,3 +61,10 @@ This project demonstrates a real-time sales data pipeline using Google Cloud Pla
     - Firestore
     - Cloud Storage
     - BigQuery
+
+
+### Deployment Steps
+#### Step 1: Set Up Firestore
+```bash
+bash setup_scripts/create_firestore.sh
+```
